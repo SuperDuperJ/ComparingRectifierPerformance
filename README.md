@@ -1,4 +1,4 @@
-# Course Project: Comparing Rectifier Performance
+# Course Project: Comparing Rectifier Performance on Image Data
 
 # Course: Deep Learning Graduate Course, Boise State University
 
